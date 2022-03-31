@@ -1,1 +1,1 @@
-console log('Hello Git CI');
+console.log('Hello Git CI');
